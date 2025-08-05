@@ -1,0 +1,5 @@
+.venv/
+data/
+gpt2/
+sms_spam_collection/
+the-verdict.txt
